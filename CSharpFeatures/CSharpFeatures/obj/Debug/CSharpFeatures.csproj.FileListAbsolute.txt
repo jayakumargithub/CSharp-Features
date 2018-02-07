@@ -1,0 +1,7 @@
+C:\CSharp Features Projects\CSharpFeatures\CSharpFeatures\obj\Debug\CSharpFeatures.csproj.CoreCompileInputs.cache
+C:\CSharp Features Projects\CSharpFeatures\CSharpFeatures\bin\Debug\CSharpFeatures.exe.config
+C:\CSharp Features Projects\CSharpFeatures\CSharpFeatures\bin\Debug\CSharpFeatures.exe
+C:\CSharp Features Projects\CSharpFeatures\CSharpFeatures\bin\Debug\CSharpFeatures.pdb
+C:\CSharp Features Projects\CSharpFeatures\CSharpFeatures\obj\Debug\CSharpFeatures.exe
+C:\CSharp Features Projects\CSharpFeatures\CSharpFeatures\obj\Debug\CSharpFeatures.pdb
+C:\CSharp Features Projects\CSharpFeatures\CSharpFeatures\obj\Debug\CSharpFeatures.csprojResolveAssemblyReference.cache
